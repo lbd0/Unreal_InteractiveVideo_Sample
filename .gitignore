@@ -73,3 +73,14 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Rider / VSCode
+.idea/
+.vscode/
+
+# Crash logs
+*.log
